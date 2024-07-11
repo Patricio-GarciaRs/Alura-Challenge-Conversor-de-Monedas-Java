@@ -15,7 +15,7 @@ Generar una API-KEY en la pagina de [ExchangeRate-API](https://www.exchangerate-
 
 Mensaje de bienvenida y seleccion de divisa
 
-![App Screenshot](assets/inicio.png)
+![App Screenshot](Challenge Conversor de Monedas/Convesor de monedas/assets/inicio.png)
 
 Conversion de la divisa y continuacion del loop.
 
